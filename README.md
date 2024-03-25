@@ -1,5 +1,6 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kenvue_logo.svg/1200px-Kenvue_logo.svg.png)
 
+![alt text]([https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kenvue_logo.svg/1200px-Kenvue_logo.svg.png](https://upload.wikimedia.org/wikipedia/en/thumb/7/76/UofT-Sc-logo.svg/1200px-UofT-Sc-logo.svg.png))
 
 
 # Kenvue Project README
