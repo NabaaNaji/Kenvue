@@ -1,4 +1,4 @@
-![alt text]([https://example.com/images/example.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AKenvue_logo.svg&psig=AOvVaw34NxZCxToLlPeMR_W7fKz9&ust=1711484336624000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLi_upGekIUDFQAAAAAdAAAAABAE))
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kenvue_logo.svg/1200px-Kenvue_logo.svg.png)
 
 
 
