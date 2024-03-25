@@ -1,6 +1,4 @@
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kenvue_logo.svg/1200px-Kenvue_logo.svg.png)
-
-![alt text](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1227,h_908/https://mcdonaldinstitute.ca/app-opportunities/wp-content/uploads/2023/10/university-of-toronto-logo.b3094c63ccd05a03276c.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kenvue_logo.svg/1200px-Kenvue_logo.svg.png) ![alt text](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1227,h_908/https://mcdonaldinstitute.ca/app-opportunities/wp-content/uploads/2023/10/university-of-toronto-logo.b3094c63ccd05a03276c.png)
 
 
 # Kenvue Project README
