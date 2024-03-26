@@ -3,11 +3,12 @@
 
 # Business Case With Kenvue - README
 
+
 ### How are you going to approach the problem(abstract)? 
 
 First we will clean the data to make it more readable and comprehensive for further analysis. We will turn the wide data into a long data format for improved critiquing in python. After cleaning the data we will perform the following analyses: 
 
-1. **Demand Forecasting**:**
+1. **Demand Forecasting:**
 
   - Use the Factory POS and Total Ecomm POS datasets to analyze historical sales trends, identifying patterns and variances in demand across different products and regions.
 
