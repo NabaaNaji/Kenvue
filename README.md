@@ -2,7 +2,7 @@
 
 
 # Business Case With Kenvue - README
-
+---
 
 ### How are you going to approach the problem(abstract)? 
 
@@ -28,6 +28,7 @@ We will consider the following need states:
 2. Hair care - Dependable on consumer needs
 3. Sun care - Typically based on seasonality, but can vary among consumer preference 
 
+---
 
 ### What do you hope to achieve, given the data?
 
