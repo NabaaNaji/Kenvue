@@ -2,7 +2,6 @@
 
 
 # Business Case With Kenvue - README
----
 
 ### How are you going to approach the problem(abstract)? 
 
@@ -40,6 +39,7 @@ Our objectives are:
 4. Identify and assess need states and their impact on consumer purchasing behaviour, to maximize business growth opportunities.
 5. Leverage web scraping to enhance our analysis, helping us to draw well-informed conclusions backed by data-driven insights.
 
+---
 
 ### Who is in your group, and what is the division of labour?
 
@@ -48,6 +48,7 @@ Our objectives are:
 3. **Roshan**: Market Research and Customer Feedback Analysis
 4. **Sara**: Visualization and Data Presentation
 
+---
 
 ### How are you going to 'clean' and organize the data?
 
@@ -56,6 +57,7 @@ Our objectives are:
 3. Remove duplicate data, standardize data formats and handle zeroed values to ensure the validity of the data.
 4. Ensure concise documentation (comments) and modular code within the Jupyter Notebook to enhance readability and facilitate the reproducibility of the data cleaning process.
 
+---
 
 ### What external data/website are you using to aid your analysis(references)? 
 
@@ -64,6 +66,7 @@ Our objectives are:
 3. Use demographic data from government databases and research institutions, to tailor our business strategies to meet the unique needs of different customer segments, enhancing customer engagement and value proposition.
 4. We'll integrate external datasets focusing on healthcare trends and consumer behaviour to deepen our understanding of customer needs and preferences. This will inform product development and marketing strategies, ensuring they are aligned with consumer demand.
 
+---
 
 ### What technologies are involved (software, packages/libraries, techniques)?
 
@@ -71,8 +74,6 @@ Our objectives are:
 2. **Packages**/Libraries: Pandas, Seaborn, Statsmodels, Scikit-learn, NumPy
 3. **Techniques**: Data cleaning, exploratory data analysis, linear regression modeling, data visualizations 
 
-
-
-
+---
 
 **Word Count** (not including question headers): **498**
