@@ -8,7 +8,7 @@
 </div>
 
 
-## How are you going to approach the problem(abstract)? 
+### How are you going to approach the problem(abstract)? 
 
 First we will clean the data to make it more readable and comprehensive for further analysis. We will turn the wide data into a long data format for improved critiquing in python. After cleaning the data we will perform the following analyses: 
 
