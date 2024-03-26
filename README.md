@@ -1,10 +1,10 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kenvue_logo.svg/1200px-Kenvue_logo.svg.png) 
 
 
-# Business Case With Kenvue README
+# Business Case With Kenvue - README
 
 
-#### How are you going to approach the problem(abstract)? 
+### How are you going to approach the problem(abstract)? 
 
 First we will clean the data to make it more readable and comprehensive for further analysis. We will turn the wide data into a long data format for improved critiquing in python. After cleaning the data we will perform the following analyses: 
 
@@ -29,7 +29,7 @@ We will consider the following need states:
 3. Sun care - Typically based on seasonality, but can vary among consumer preference 
 
 
-#### What do you hope to achieve, given the data?
+### What do you hope to achieve, given the data?
 
 Our objectives are:
 
@@ -40,7 +40,7 @@ Our objectives are:
 5. Leverage web scraping to enhance our analysis, helping us to draw well-informed conclusions backed by data-driven insights.
 
 
-#### Who is in your group, and what is the division of labour?
+### Who is in your group, and what is the division of labour?
 
 1. **Nabaa**: Data Cleaning and Organization
 2. **Sebastian**: Data Analysis and Modeling
@@ -48,7 +48,7 @@ Our objectives are:
 4. **Sara**: Visualization and Data Presentation
 
 
-#### How are you going to 'clean' and organize the data?
+### How are you going to 'clean' and organize the data?
 
 1. Using Python (Jupyter Notebook) we will convert wide data into long data to facilitate the analysis. 
 2. We will use various libraries that have modules which will aid in cleaning and understanding the data.
@@ -56,7 +56,7 @@ Our objectives are:
 4. Ensure concise documentation (comments) and modular code within the Jupyter Notebook to enhance readability and facilitate the reproducibility of the data cleaning process.
 
 
-#### What external data/website are you using to aid your analysis(references)? 
+### What external data/website are you using to aid your analysis(references)? 
 
 1. We will web scrape to gather up-to-date information on consumer preferences and industry developments. This will help us identify emerging trends that could influence business strategies.
 2. Access industry reports and market research databases to derive insights into consumer behaviour, market dynamics, and competitor strategies. These resources will give potential areas for innovation and growth.
@@ -64,11 +64,14 @@ Our objectives are:
 4. We'll integrate external datasets focusing on healthcare trends and consumer behaviour to deepen our understanding of customer needs and preferences. This will inform product development and marketing strategies, ensuring they are aligned with consumer demand.
 
 
-#### What technologies are involved (software, packages/libraries, techniques)?
+### What technologies are involved (software, packages/libraries, techniques)?
 
 1. **Software**: Excel, Jupyter Notebook
 2. **Packages**/Libraries: Pandas, Seaborn, Statsmodels, Scikit-learn, NumPy
 3. **Techniques**: Data cleaning, exploratory data analysis, linear regression modeling, data visualizations 
+
+
+
 
 
 **Word Count** (not including question headers): **498**
