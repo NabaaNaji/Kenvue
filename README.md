@@ -1,8 +1,11 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kenvue_logo.svg/1200px-Kenvue_logo.svg.png) 
 
 
-# Business Case With Kenvue - README
+<div align="center">
 
+# **Business Case With Kenvue**
+
+</div>
 
 ### How are you going to approach the problem(abstract)? 
 
@@ -78,3 +81,5 @@ Our objectives are:
 ---
 
 **Word Count** (not including question headers): **494**
+
+![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png) 
